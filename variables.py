@@ -1,0 +1,7 @@
+PG_HOST = 'localhost'
+PG_PORT = '5432'
+PG_DATABASE = 'geodata'
+PG_SCHEMA = 'fias'
+PG_USER = 'postgres'
+PG_PASSWORD = '07071907'
+PATH_TO_DBF_FILES = '/home/owgrant/30/'
